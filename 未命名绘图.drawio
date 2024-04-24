@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T08:25:38.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ivFsVfhPbRmLMBwYqd92" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T08:29:55.028Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="zz1tAIHjPAZfY5Iyx-kK" version="24.2.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1247" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -74,16 +74,13 @@
           <mxGeometry x="952" y="99" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-11" value="301020002&lt;div&gt;(SPM850)合金剛 半圓頭 內六角螺絲，牙規M8x1.25, L:50mm-鍍鎳&lt;br&gt;&lt;/div&gt;&lt;div&gt;屬性:M&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="880" y="219" width="130" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="io9VJMqO0ZMELUNDM5LC-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-12" target="io9VJMqO0ZMELUNDM5LC-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="880" y="219" width="130" height="81" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-12" value="30300001&lt;div&gt;(SP6M845)M5 鍍鋅中碳鋼 六角扳手(合M8螺絲)&lt;br&gt;&lt;/div&gt;&lt;div&gt;屬性:M&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1032" y="219" width="120" height="90" as="geometry" />
+          <mxGeometry x="1032" y="219" width="120" height="81" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-14" value="301020002&amp;nbsp;&lt;div&gt;(SPM850)合金剛 半圓頭 內六角螺絲，牙規M8x1.25, L:50mm-鍍鎳&lt;/div&gt;&lt;div&gt;屬性:M&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="702" y="220" width="136" height="90" as="geometry" />
+          <mxGeometry x="702" y="220" width="136" height="80" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-15" value="30300001 (SP6M845)M5 鍍鋅中碳鋼 六角扳手(合M8螺絲)&lt;div&gt;屬性:M&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="588" y="220" width="110" height="80" as="geometry" />
@@ -169,13 +166,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-130" value="&lt;div&gt;22TU11554&amp;nbsp;&lt;/div&gt;&lt;div&gt;30x30正方管，厚度1.5mm，長度630mm&amp;nbsp; 單邊斜切45度：側面Ø10貫穿孔，中心離平切邊255mm；上面(★短面)23x23方形消水孔；底部(★長面)Ø11.5半孔*1+10x25長方孔*1，平切邊起算Pitch 255,345,21.5,8.5/*請用18.8尺(5696mm)裁切，一支可切9支→轉焊接&amp;nbsp;&lt;/div&gt;&lt;div&gt;屬性:M&amp;nbsp; 製程代號:1129 雷射切管+割&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="800" y="350" width="101" height="305" as="geometry" />
+          <mxGeometry x="710" y="366" width="151" height="200" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-131" value="&lt;div&gt;22TU11554 (X4693)卍字型展架側框下桿：30x30正方管，厚度1.5mm，長度630mm&amp;nbsp; 單邊斜切45度：側面Ø10貫穿孔，中心離平切邊255mm；上面(★短面)23x23方形消水孔；底部(★長面)Ø11.5半孔*1+10x25長方孔*1：平切那邊沖壓內塞(M8)*1→轉焊接&amp;nbsp;&lt;/div&gt;&lt;div&gt;屬性:M&amp;nbsp; 製程代號:1104 沖床(沖床件&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="912" y="350" width="100" height="274.5" as="geometry" />
+          <mxGeometry x="870" y="366" width="132" height="210" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-135" value="22TU11554&amp;nbsp;&lt;div&gt;(X4693)卍字型展架側框下桿：30x30正方管，厚度1.5mm，長度630mm&amp;nbsp; 單邊斜切45度：側面Ø10貫穿孔，中心離平切邊255mm；上面(★短面)23x23方形消水孔；底部(★長面)Ø11.5半孔*1+10x25長方孔*1：平切那邊點焊內塞(M8)*1 + 底部焊接T帽(M8)→轉主體焊接&amp;nbsp;&lt;/div&gt;&lt;div&gt;屬性:M&amp;nbsp; 製程代號:1117 焊接(廠內)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1020" y="350" width="100" height="290" as="geometry" />
+          <mxGeometry x="1012" y="366" width="140" height="220" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-157" value="12S3030151C0083&lt;div&gt;30x30正方管，厚度1.5mm，長度18.8尺(5696mm)，電鍍管(軟料)&amp;nbsp;&amp;nbsp;屬性:M&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="53" y="670" width="120" height="140" as="geometry" />
@@ -231,7 +228,7 @@
             <mxPoint x="530" y="280" as="sourcePoint" />
             <mxPoint x="830" y="330" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="590" y="330" />
+              <mxPoint x="540" y="330" />
               <mxPoint x="962" y="330" />
             </Array>
           </mxGeometry>
@@ -273,6 +270,18 @@
             <mxPoint x="500" y="650" as="sourcePoint" />
             <mxPoint x="500" y="670" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-222" value="12S3030151C0083&lt;div&gt;30x30正方管，厚度1.5mm，長度18.8尺(5696mm)，電鍍管(軟料)&amp;nbsp;&amp;nbsp;屬性:M&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="649" y="670" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-223" value="22WP20010&amp;nbsp;&lt;div&gt;下料：30x30xt:1.5mm方管內牙塞(M8)，複合模(9S0201054)/**捲料寬度：48.8mm → 轉成型&amp;nbsp;&lt;/div&gt;&lt;div&gt;屬性:M&amp;nbsp; 製程代號:1104沖床(沖床件)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="784" y="670" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-224" value="22WP20010&amp;nbsp;&lt;div&gt;成型：30x30xt:1.5mm方管內牙塞(M8)，成型模(9S0201055) → 轉攻牙&amp;nbsp;&lt;/div&gt;&lt;div&gt;屬性:M&amp;nbsp; 製程代號:1104 沖床(沖床件)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="919" y="670" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-225" value="22WP20010&amp;nbsp;&lt;div&gt;攻牙：30x30xt:1.5mm方管內牙塞(M8) → 入庫 屬性:M&amp;nbsp; 製程代號:1122 流鑽、攻牙&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1049" y="670" width="120" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
