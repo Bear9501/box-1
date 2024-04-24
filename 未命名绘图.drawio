@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T07:56:41.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wa27aoNBI0aMwtaCKRNH" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T07:58:46.798Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Xw-4-Yed8emG9xR8TS-9" version="24.2.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,8 +121,8 @@
             <Array as="points">
               <mxPoint x="215" y="1000" />
               <mxPoint x="331" y="1000" />
-              <mxPoint x="331" y="1150" />
-              <mxPoint x="100" y="1150" />
+              <mxPoint x="331" y="1400" />
+              <mxPoint x="100" y="1400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -132,16 +132,16 @@
         <mxCell id="io9VJMqO0ZMELUNDM5LC-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-81" target="io9VJMqO0ZMELUNDM5LC-179">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="1150" />
-              <mxPoint x="500" y="1150" />
+              <mxPoint x="330" y="1400" />
+              <mxPoint x="500" y="1400" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-81" target="io9VJMqO0ZMELUNDM5LC-176">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="1150" />
-              <mxPoint x="235" y="1150" />
+              <mxPoint x="330" y="1400" />
+              <mxPoint x="235" y="1400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -153,8 +153,8 @@
             <Array as="points">
               <mxPoint x="439" y="1000" />
               <mxPoint x="330" y="1000" />
-              <mxPoint x="330" y="1150" />
-              <mxPoint x="370" y="1150" />
+              <mxPoint x="330" y="1400" />
+              <mxPoint x="370" y="1400" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -189,7 +189,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-130" value="&lt;div&gt;22TU11554&amp;nbsp;&lt;/div&gt;&lt;div&gt;30x30正方管，厚度1.5mm，長度630mm&amp;nbsp; 單邊斜切45度：側面Ø10貫穿孔，中心離平切邊255mm；上面(★短面)23x23方形消水孔；底部(★長面)Ø11.5半孔*1+10x25長方孔*1，平切邊起算Pitch 255,345,21.5,8.5/*請用18.8尺(5696mm)裁切，一支可切9支→轉焊接&amp;nbsp;&lt;/div&gt;&lt;div&gt;屬性:M&amp;nbsp; 製程代號:1129 雷射切管+割&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="500" y="705" width="101" height="300" as="geometry" />
+          <mxGeometry x="500" y="705" width="101" height="305" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-131" value="&lt;div&gt;22TU11554 (X4693)卍字型展架側框下桿：30x30正方管，厚度1.5mm，長度630mm&amp;nbsp; 單邊斜切45度：側面Ø10貫穿孔，中心離平切邊255mm；上面(★短面)23x23方形消水孔；底部(★長面)Ø11.5半孔*1+10x25長方孔*1：平切那邊沖壓內塞(M8)*1→轉焊接&amp;nbsp;&lt;/div&gt;&lt;div&gt;屬性:M&amp;nbsp; 製程代號:1104 沖床(沖床件&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="612" y="705" width="100" height="274.5" as="geometry" />
@@ -201,7 +201,7 @@
           <mxGeometry x="60" y="810" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-157" value="12S3030151C0083&lt;div&gt;30x30正方管，厚度1.5mm，長度18.8尺(5696mm)，電鍍管(軟料)&amp;nbsp;&amp;nbsp;屬性:M&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="1240" width="120" height="140" as="geometry" />
+          <mxGeometry x="40" y="1510" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-169" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-160" target="io9VJMqO0ZMELUNDM5LC-79">
           <mxGeometry relative="1" as="geometry">
@@ -258,13 +258,13 @@
           <mxGeometry x="587" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-176" value="22WP20010&amp;nbsp;&lt;div&gt;下料：30x30xt:1.5mm方管內牙塞(M8)，複合模(9S0201054)/**捲料寬度：48.8mm → 轉成型&amp;nbsp;&lt;/div&gt;&lt;div&gt;屬性:M&amp;nbsp; 製程代號:1104沖床(沖床件)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="175" y="1240" width="120" height="140" as="geometry" />
+          <mxGeometry x="175" y="1510" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-178" value="22WP20010&amp;nbsp;&lt;div&gt;成型：30x30xt:1.5mm方管內牙塞(M8)，成型模(9S0201055) → 轉攻牙&amp;nbsp;&lt;/div&gt;&lt;div&gt;屬性:M&amp;nbsp; 製程代號:1104 沖床(沖床件)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="1240" width="120" height="140" as="geometry" />
+          <mxGeometry x="310" y="1510" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-179" value="22WP20010&amp;nbsp;&lt;div&gt;攻牙：30x30xt:1.5mm方管內牙塞(M8) → 入庫 屬性:M&amp;nbsp; 製程代號:1122 流鑽、攻牙&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="1240" width="120" height="140" as="geometry" />
+          <mxGeometry x="440" y="1510" width="120" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
