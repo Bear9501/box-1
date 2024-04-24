@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T08:16:52.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="IAsUngoSNQVf6HhamL5F" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T08:24:32.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="UUE_lJjRSFFdNuAuJ-ht" version="24.2.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1247" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -23,28 +23,20 @@
         <mxCell id="io9VJMqO0ZMELUNDM5LC-0" value="&lt;pre&gt;5CD010113(X4693)&lt;br&gt;卍字形展架，30方管，框寬度620mm，高度1400mm，電鍍&lt;br&gt;屬性:M&amp;nbsp; 製程代號: 1103&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="10" width="316" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="io9VJMqO0ZMELUNDM5LC-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-1" target="io9VJMqO0ZMELUNDM5LC-23">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="100" y="400" />
-              <mxPoint x="260" y="400" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-202" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-1" target="io9VJMqO0ZMELUNDM5LC-23">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="100" y="310" />
-              <mxPoint x="260" y="310" />
+              <mxPoint x="100" y="280" />
+              <mxPoint x="260" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-1" target="io9VJMqO0ZMELUNDM5LC-81">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="100" y="310" />
-              <mxPoint x="530" y="310" />
+              <mxPoint x="100" y="280" />
+              <mxPoint x="530" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -52,55 +44,75 @@
           <mxGeometry x="40" y="105" width="120" height="135" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-2" target="io9VJMqO0ZMELUNDM5LC-14">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="694" y="200" />
+              <mxPoint x="770" y="200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-191" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-2" target="io9VJMqO0ZMELUNDM5LC-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="694" y="200" />
+              <mxPoint x="643" y="200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-2" value="&lt;p&gt;30410284&lt;br&gt;螺絲包：M8x50mm內六角螺絲(301020002)x8支+板手(30300001)*1&lt;br&gt;屬性:M&amp;nbsp; 製程代號: 1103&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="612" y="105" width="164" height="85" as="geometry" />
+          <mxGeometry x="612" y="102" width="164" height="85" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-5" target="io9VJMqO0ZMELUNDM5LC-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1052" y="200" />
+              <mxPoint x="945" y="200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-5" value="30420035&lt;div&gt;腳輪包-3x7/8&quot;萬向PU輪，牙:M8xP1.25x19mm-黑灰，剎車輪(30620007)x2顆+活動輪(30620008)x2顆/一包&lt;br&gt;&lt;/div&gt;&lt;div&gt;屬性:M&amp;nbsp; 製程代號: 1103&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="952" y="105" width="200" height="90" as="geometry" />
+          <mxGeometry x="952" y="99" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-11" value="301020002&lt;div&gt;(SPM850)合金剛 半圓頭 內六角螺絲，牙規M8x1.25, L:50mm-鍍鎳&lt;br&gt;&lt;/div&gt;&lt;div&gt;屬性:M&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="880" y="230" width="130" height="90" as="geometry" />
+          <mxGeometry x="880" y="219" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-12" target="io9VJMqO0ZMELUNDM5LC-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-12" value="30300001&lt;div&gt;(SP6M845)M5 鍍鋅中碳鋼 六角扳手(合M8螺絲)&lt;br&gt;&lt;/div&gt;&lt;div&gt;屬性:M&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1032" y="230" width="120" height="90" as="geometry" />
+          <mxGeometry x="1032" y="219" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-14" value="301020002&amp;nbsp;&lt;div&gt;(SPM850)合金剛 半圓頭 內六角螺絲，牙規M8x1.25, L:50mm-鍍鎳&lt;/div&gt;&lt;div&gt;屬性:M&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="702" y="225" width="136" height="90" as="geometry" />
+          <mxGeometry x="702" y="220" width="136" height="90" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-15" value="30300001 (SP6M845)M5 鍍鋅中碳鋼 六角扳手(合M8螺絲)&lt;div&gt;屬性:M&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="588" y="225" width="110" height="90" as="geometry" />
+          <mxGeometry x="588" y="220" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-5" target="io9VJMqO0ZMELUNDM5LC-12">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1052" y="200" />
+              <mxPoint x="1102" y="200" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-22" target="io9VJMqO0ZMELUNDM5LC-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-22" value="22TU11551&amp;nbsp;&lt;div&gt;30x30正方管，厚度1.5mm，長度1340mm 平切：單面貫穿排孔，孔徑8*30，Pitch 50，離上下邊30mm&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;/*&lt;span style=&quot;background-color: initial;&quot;&gt;請用18.1尺(5484mm)裁切，一支可切4支→轉焊接&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;屬性:M&amp;nbsp; 製程代號:1129 雷射切管+割&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="330" width="120" height="190" as="geometry" />
+          <mxGeometry x="40" y="308" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-197" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-23" target="io9VJMqO0ZMELUNDM5LC-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-23" value="22TU11552&amp;nbsp;&lt;div&gt;30x30正方管，厚度1.5mm，長度1400mm&amp;nbsp; 八字斜切45度：側面貫穿排孔，孔徑8*30，Pitch 50，離上下邊60mm&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;/*&lt;span style=&quot;background-color: initial;&quot;&gt;請用18.6尺(5636mm)裁切，一支可切4支→轉焊接&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;屬性:M&amp;nbsp; 製程代號:1129 雷射切管+割&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="330" width="160" height="190" as="geometry" />
+          <mxGeometry x="180" y="308" width="160" height="190" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-35" value="12S3030151C0134&amp;nbsp;&lt;div&gt;30x30正方管，厚度1.5mm，長度18.1尺(5484mm)，電鍍管&lt;/div&gt;&lt;div&gt;屬性:P&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="565" width="120" height="80" as="geometry" />
+          <mxGeometry x="40" y="524" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-38" value="12S3030151C0070&amp;nbsp;&lt;div&gt;30x30正方管，厚度1.5mm，長度18.6尺(5636mm)，電鍍管&lt;/div&gt;&lt;div&gt;屬性:P&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="198.75" y="570" width="122.5" height="81" as="geometry" />
+          <mxGeometry x="198.75" y="529" width="122.5" height="81" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-60" value="0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="240" y="30" width="20" height="20" as="geometry" />
@@ -109,28 +121,36 @@
           <mxGeometry x="10" y="130" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-62" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="260" width="20" height="20" as="geometry" />
+          <mxGeometry x="553" y="230" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-63" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="10" y="470" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-77" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="10" y="1040" width="20" height="20" as="geometry" />
+          <mxGeometry x="20" y="720" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-79" value="&lt;div&gt;22TU11553&amp;nbsp;&lt;/div&gt;&lt;div&gt;30x30正方管，厚度1.5mm，長度630mm&amp;nbsp; 單邊斜切45度：側面Ø10貫穿孔，中心離平切邊255mm；底部(★短面)Ø8半孔*2+Ø10半孔*1+23x23方形消水孔，平切邊起算Pitch 15,85,155,275,100/*請用18.8尺(5696mm)裁切，一支可切9支→轉焊接 屬性:M&amp;nbsp; 製程代號:1129 雷射切管+割&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="425" width="110" height="260" as="geometry" />
+          <mxGeometry x="353" y="366" width="110" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-211" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-81" target="io9VJMqO0ZMELUNDM5LC-157">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="523" y="650" />
+              <mxPoint x="113" y="650" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-81" value="22TU11553&amp;nbsp;&lt;div&gt;(X4693)卍字型展架側框上桿：30x30正方管，厚度1.5mm，長度630mm&amp;nbsp; 單邊斜切45度，側面Ø10貫穿孔+底部(★短面)Ø8半孔*2+Ø10半孔*1+23x23方形消水孔：平切那邊沖壓內塞(M8)*1→轉焊接 屬性:M&amp;nbsp; 製程代號:1104 沖床(沖床件)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="470" y="425" width="100" height="260" as="geometry" />
+          <mxGeometry x="473" y="366" width="100" height="260" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-85" value="22TU11553&amp;nbsp;&lt;div&gt;(X4693)卍字型展架側框上桿：30x30正方管，厚度1.5mm，長度630mm&amp;nbsp; 單邊斜切45度，側面Ø10貫穿孔+底部(★短面)Ø8半孔*2+Ø10半孔*1+23x23方形消水孔：平切那邊點焊內塞(M8)*1→轉主體焊接&amp;nbsp;&lt;/div&gt;&lt;div&gt;屬性:M&amp;nbsp; 製程代號:1117 焊接(廠內)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="578" y="425" width="102" height="260" as="geometry" />
+          <mxGeometry x="581" y="366" width="102" height="260" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-98" target="io9VJMqO0ZMELUNDM5LC-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="299" y="280" />
-              <mxPoint x="100" y="280" />
+              <mxPoint x="299" y="260" />
+              <mxPoint x="100" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -158,16 +178,16 @@
           <mxGeometry x="1020" y="380" width="100" height="290" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-157" value="12S3030151C0083&lt;div&gt;30x30正方管，厚度1.5mm，長度18.8尺(5696mm)，電鍍管(軟料)&amp;nbsp;&amp;nbsp;屬性:M&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="1240" width="120" height="140" as="geometry" />
+          <mxGeometry x="53" y="670" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-176" value="22WP20010&amp;nbsp;&lt;div&gt;下料：30x30xt:1.5mm方管內牙塞(M8)，複合模(9S0201054)/**捲料寬度：48.8mm → 轉成型&amp;nbsp;&lt;/div&gt;&lt;div&gt;屬性:M&amp;nbsp; 製程代號:1104沖床(沖床件)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="175" y="1240" width="120" height="140" as="geometry" />
+          <mxGeometry x="188" y="670" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-178" value="22WP20010&amp;nbsp;&lt;div&gt;成型：30x30xt:1.5mm方管內牙塞(M8)，成型模(9S0201055) → 轉攻牙&amp;nbsp;&lt;/div&gt;&lt;div&gt;屬性:M&amp;nbsp; 製程代號:1104 沖床(沖床件)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="310" y="1240" width="120" height="140" as="geometry" />
+          <mxGeometry x="323" y="670" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-179" value="22WP20010&amp;nbsp;&lt;div&gt;攻牙：30x30xt:1.5mm方管內牙塞(M8) → 入庫 屬性:M&amp;nbsp; 製程代號:1122 流鑽、攻牙&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="1240" width="120" height="140" as="geometry" />
+          <mxGeometry x="453" y="670" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-192" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.413;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="io9VJMqO0ZMELUNDM5LC-135">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -189,31 +209,69 @@
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-195" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.413;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="io9VJMqO0ZMELUNDM5LC-85">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="380" as="sourcePoint" />
-            <mxPoint x="630" y="360" as="targetPoint" />
+            <mxPoint x="533" y="340" as="sourcePoint" />
+            <mxPoint x="633" y="320" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="580" y="380" />
-              <mxPoint x="620" y="380" />
+              <mxPoint x="583" y="340" />
+              <mxPoint x="623" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-196" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="380" as="sourcePoint" />
-            <mxPoint x="420" y="420" as="targetPoint" />
+            <mxPoint x="533" y="340" as="sourcePoint" />
+            <mxPoint x="423" y="380" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="420" y="380" />
+              <mxPoint x="423" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-206" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="io9VJMqO0ZMELUNDM5LC-131">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="310" as="sourcePoint" />
+            <mxPoint x="530" y="280" as="sourcePoint" />
             <mxPoint x="830" y="360" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="350" />
+              <mxPoint x="650" y="350" />
               <mxPoint x="962" y="350" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-213" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="io9VJMqO0ZMELUNDM5LC-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="640" as="sourcePoint" />
+            <mxPoint x="640" y="630" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="640" />
+              <mxPoint x="640" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-214" value="" style="endArrow=none;html=1;rounded=0;exitX=0.535;exitY=0.999;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="630" as="sourcePoint" />
+            <mxPoint x="523" y="640" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="640" />
+              <mxPoint x="470" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-216" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.517;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="io9VJMqO0ZMELUNDM5LC-176">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="650" as="sourcePoint" />
+            <mxPoint x="480" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-218" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="382.8" y="650" as="sourcePoint" />
+            <mxPoint x="382.8" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-219" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="650" as="sourcePoint" />
+            <mxPoint x="500" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
