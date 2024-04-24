@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-24T06:25:29.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4K384QhBraPKeKeXx8JW" version="24.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-24T06:31:56.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rojY_yXZ7AKySrOz_Mfq" version="24.2.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="989" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -34,6 +34,14 @@
         <mxCell id="io9VJMqO0ZMELUNDM5LC-1" value="5CD010113-1&lt;div&gt;卍字形展架側框，30正方管，厚度1.5mm，寬度630mm，高度1400mm(單面貫穿排孔)，電鍍鉻&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="130" width="270" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-2" target="io9VJMqO0ZMELUNDM5LC-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="220" />
+              <mxPoint x="456" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-2" value="&lt;p&gt;30410284&lt;br&gt;螺絲包：M8x50mm內六角螺絲(301020002)x8支+板手(30300001)*1&lt;br&gt;屬性:M&amp;nbsp; 製程代號: 1103&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="130" width="210" height="60" as="geometry" />
         </mxCell>
@@ -54,16 +62,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="io9VJMqO0ZMELUNDM5LC-11" value="301020002&lt;div&gt;(SPM850)合金剛 半圓頭 內六角螺絲，牙規M8x1.25, L:50mm-鍍鎳&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="250" width="120" height="90" as="geometry" />
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-11" value="301020002&lt;div&gt;(SPM850)合金剛 半圓頭 內六角螺絲，牙規M8x1.25, L:50mm-鍍鎳&lt;br&gt;&lt;/div&gt;&lt;div&gt;屬性:M&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="250" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="io9VJMqO0ZMELUNDM5LC-12" value="30300001&lt;div&gt;(SP6M845)M5 鍍鋅中碳鋼 六角扳手(合M8螺絲)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-12" value="30300001&lt;div&gt;(SP6M845)M5 鍍鋅中碳鋼 六角扳手(合M8螺絲)&lt;br&gt;&lt;/div&gt;&lt;div&gt;屬性:M&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="250" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="io9VJMqO0ZMELUNDM5LC-14" value="301020002&amp;nbsp;&lt;div&gt;(SPM850)合金剛 半圓頭 內六角螺絲，牙規M8x1.25, L:50mm-鍍鎳&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="250" width="120" height="90" as="geometry" />
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-14" value="301020002&amp;nbsp;&lt;div&gt;(SPM850)合金剛 半圓頭 內六角螺絲，牙規M8x1.25, L:50mm-鍍鎳&lt;/div&gt;&lt;div&gt;屬性:M&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="250" width="136" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="io9VJMqO0ZMELUNDM5LC-15" value="30300001 (SP6M845)M5 鍍鋅中碳鋼 六角扳手(合M8螺絲)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-15" value="30300001 (SP6M845)M5 鍍鋅中碳鋼 六角扳手(合M8螺絲)&lt;div&gt;屬性:M&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="250" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.583;entryY=-0.011;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-5" target="io9VJMqO0ZMELUNDM5LC-12">
@@ -78,11 +86,14 @@
         <mxCell id="io9VJMqO0ZMELUNDM5LC-22" value="22TU11551&amp;nbsp;&lt;div&gt;30x30正方管，厚度1.5mm，長度1340mm 平切：單面貫穿排孔，孔徑8*30，Pitch 50，離上下邊30mm&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;/*&lt;span style=&quot;background-color: initial;&quot;&gt;請用18.1尺(5484mm)裁切，一支可切4支→轉焊接&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="440" width="120" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-23" target="io9VJMqO0ZMELUNDM5LC-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-23" value="22TU11552&amp;nbsp;&lt;div&gt;30x30正方管，厚度1.5mm，長度1400mm&amp;nbsp; 八字斜切45度：側面貫穿排孔，孔徑8*30，Pitch 50，離上下邊60mm&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;/*&lt;span style=&quot;background-color: initial;&quot;&gt;請用18.6尺(5636mm)裁切，一支可切4支→轉焊接&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="240" y="450" width="110" height="180" as="geometry" />
+          <mxGeometry x="240" y="440" width="110" height="180" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-24" value="22TU11553&amp;nbsp;&lt;div&gt;30x30正方管，厚度1.5mm，長度630mm 單邊斜切45度：側面Ø10貫穿孔，中心離平切邊255mm；底部(★短面)Ø8半孔*2+Ø10半孔*1+23x23方形消水孔&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;/&lt;span style=&quot;background-color: initial;&quot;&gt;*請用18.8尺(5696mm)裁切，一支可切9支→轉焊接&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="450" y="450" width="120" height="190" as="geometry" />
+          <mxGeometry x="450" y="440" width="120" height="190" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-25" value="22TU11554&amp;nbsp;&lt;div&gt;30x30正方管，厚度1.5mm，長度630mm&amp;nbsp; 單邊斜切45度：側面Ø10貫穿孔，中心離平切邊255mm；上面(★短面)23x23方形消水孔；底部(★長面)Ø11.5半孔*1+10x25長方孔*1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;/*請用18.8尺(5696mm)裁切，一支可切9支→轉焊接&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660" y="440" width="120" height="220" as="geometry" />
@@ -102,23 +113,27 @@
           <mxGeometry x="40" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-38" value="12S3030151C0070 30x30正方管，厚度1.5mm，長度18.6尺(5636mm)，電鍍管" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="235" y="660" width="115" height="90" as="geometry" />
+          <mxGeometry x="237.5" y="660" width="115" height="90" as="geometry" />
         </mxCell>
         <mxCell id="io9VJMqO0ZMELUNDM5LC-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.652;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-2" target="io9VJMqO0ZMELUNDM5LC-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="430" y="220" />
+              <mxPoint x="435" y="220" />
               <mxPoint x="262" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="io9VJMqO0ZMELUNDM5LC-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.705;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="io9VJMqO0ZMELUNDM5LC-2" target="io9VJMqO0ZMELUNDM5LC-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="430" y="220" />
-              <mxPoint x="439" y="220" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-60" value="0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="30" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-61" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="140" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-62" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="160" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="io9VJMqO0ZMELUNDM5LC-63" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="10" y="470" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
